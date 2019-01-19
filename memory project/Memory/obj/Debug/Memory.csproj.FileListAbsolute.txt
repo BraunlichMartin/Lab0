@@ -1,0 +1,40 @@
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\LCC-CIT-Programming-CS233N-Lab0-master\Memory\bin\Debug\Memory.exe.config
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\LCC-CIT-Programming-CS233N-Lab0-master\Memory\bin\Debug\Memory.exe
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\LCC-CIT-Programming-CS233N-Lab0-master\Memory\bin\Debug\Memory.pdb
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\LCC-CIT-Programming-CS233N-Lab0-master\Memory\obj\Debug\Memory.csprojAssemblyReference.cache
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\LCC-CIT-Programming-CS233N-Lab0-master\Memory\obj\Debug\Memory.boardForm.resources
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\LCC-CIT-Programming-CS233N-Lab0-master\Memory\obj\Debug\Memory.Properties.Resources.resources
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\LCC-CIT-Programming-CS233N-Lab0-master\Memory\obj\Debug\Memory.csproj.GenerateResource.cache
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\LCC-CIT-Programming-CS233N-Lab0-master\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\LCC-CIT-Programming-CS233N-Lab0-master\Memory\obj\Debug\Memory.exe
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\LCC-CIT-Programming-CS233N-Lab0-master\Memory\obj\Debug\Memory.pdb
+E:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\LCC-CIT-Programming-CS233N-Lab0-master\Memory\bin\Debug\Memory.exe.config
+E:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\LCC-CIT-Programming-CS233N-Lab0-master\Memory\bin\Debug\Memory.exe
+E:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\LCC-CIT-Programming-CS233N-Lab0-master\Memory\bin\Debug\Memory.pdb
+E:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\LCC-CIT-Programming-CS233N-Lab0-master\Memory\obj\Debug\Memory.csprojAssemblyReference.cache
+E:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\LCC-CIT-Programming-CS233N-Lab0-master\Memory\obj\Debug\Memory.boardForm.resources
+E:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\LCC-CIT-Programming-CS233N-Lab0-master\Memory\obj\Debug\Memory.Properties.Resources.resources
+E:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\LCC-CIT-Programming-CS233N-Lab0-master\Memory\obj\Debug\Memory.csproj.GenerateResource.cache
+E:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\LCC-CIT-Programming-CS233N-Lab0-master\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+E:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\LCC-CIT-Programming-CS233N-Lab0-master\Memory\obj\Debug\Memory.exe
+E:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\LCC-CIT-Programming-CS233N-Lab0-master\Memory\obj\Debug\Memory.pdb
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\Lab 0 completed\Memory\bin\Debug\Memory.exe.config
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\Lab 0 completed\Memory\bin\Debug\Memory.exe
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\Lab 0 completed\Memory\bin\Debug\Memory.pdb
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\Lab 0 completed\Memory\obj\Debug\Memory.csprojAssemblyReference.cache
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\Lab 0 completed\Memory\obj\Debug\Memory.boardForm.resources
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\Lab 0 completed\Memory\obj\Debug\Memory.Properties.Resources.resources
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\Lab 0 completed\Memory\obj\Debug\Memory.csproj.GenerateResource.cache
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\Lab 0 completed\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\Lab 0 completed\Memory\obj\Debug\Memory.exe
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\Lab 0 completed\Memory\obj\Debug\Memory.pdb
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\Lab 0 completed\memory project\Memory\bin\Debug\Memory.exe.config
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\Lab 0 completed\memory project\Memory\bin\Debug\Memory.exe
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\Lab 0 completed\memory project\Memory\bin\Debug\Memory.pdb
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\Lab 0 completed\memory project\Memory\obj\Debug\Memory.csprojAssemblyReference.cache
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\Lab 0 completed\memory project\Memory\obj\Debug\Memory.boardForm.resources
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\Lab 0 completed\memory project\Memory\obj\Debug\Memory.Properties.Resources.resources
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\Lab 0 completed\memory project\Memory\obj\Debug\Memory.csproj.GenerateResource.cache
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\Lab 0 completed\memory project\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\Lab 0 completed\memory project\Memory\obj\Debug\Memory.exe
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 1\Lab 0 completed\memory project\Memory\obj\Debug\Memory.pdb
